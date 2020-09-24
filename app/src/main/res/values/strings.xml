@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyService</string>
+    <string-array name="fu_hao">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
